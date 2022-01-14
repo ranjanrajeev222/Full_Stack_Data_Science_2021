@@ -27,15 +27,15 @@ link : https://adult-income-census.herokuapp.com/ <br>
 # Snippets of Project
 #### 1) Training:
 
-![alt-text](https://github.com/prakash0007/Adult_Income_census/blob/main/Images/Training_image.png)
+![alt-text](https://github.com/ranjanrajeev222/Full_Stack_Data_Science_2021/blob/main/FDS%20Intership%20Project/Adult%20Census%20Income/Images/Training_image.png)
 
 #### 2) Home Page:
 
-![alt-text](https://github.com/prakash0007/Adult_Income_census/blob/main/Images/index_page.png)
+![alt-text](https://github.com/ranjanrajeev222/Full_Stack_Data_Science_2021/blob/main/FDS%20Intership%20Project/Adult%20Census%20Income/Images/index_page.png)
 
 #### 3) Result Prediction page:
 
-![alt-text](https://github.com/prakash0007/Adult_Income_census/blob/main/Images/output_text.png)
+![alt-text](https://github.com/ranjanrajeev222/Full_Stack_Data_Science_2021/blob/main/FDS%20Intership%20Project/Adult%20Census%20Income/Images/output_text.png)
 
 ## Technologies Used
 <pre> 
@@ -48,8 +48,6 @@ link : https://adult-income-census.herokuapp.com/ <br>
 8.Heroku colud
 </pre>
 
-## HLD , LLD & WireFrame
-link : https://drive.google.com/drive/folders/1R7lT6uUGeV1WDm5FMoDUHteeaN0CGJT6?usp=sharing
 
 ## Help Me Improve
 <p> Hello Reader if you find any bug please consider raising issue I will address them asap.</p>
