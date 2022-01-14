@@ -22,7 +22,7 @@
 link : https://adult-income-census.herokuapp.com/ <br>
  
  ## WorkFlow
- ![alt-text](https://github.com/prakash0007/Adult_Income_census/blob/main/Images/Workflow.png)
+ ![alt-text](https://github.com/ranjanrajeev222/Full_Stack_Data_Science_2021/blob/main/FDS%20Intership%20Project/Adult%20Census%20Income/Images/Workflow.png)
  
 # Snippets of Project
 #### 1) Training:
