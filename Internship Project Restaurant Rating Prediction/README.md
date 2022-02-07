@@ -9,6 +9,7 @@
   * [Technologies Used](#technologies-used)
   * [Bug / Feature Request](#bug---feature-request)
   * [Future scope of project](#future-scope)
+  * App link-https://zomato-rrp2.herokuapp.com/
 
 
 ## Overview
