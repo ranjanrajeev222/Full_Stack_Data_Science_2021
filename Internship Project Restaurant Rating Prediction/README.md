@@ -3,7 +3,6 @@
 
 
 ## Table of Content
-  * [Demo](#demo)
   * [Overview](#overview)
   * [Motivation](#motivation)
   * [Installation](#installation)
@@ -11,12 +10,6 @@
   * [Bug / Feature Request](#bug---feature-request)
   * [Future scope of project](#future-scope)
 
-
-## Demo
-
-![](https://i.imgur.com/VoG4tF4.png)
-
-![](https://i.imgur.com/dEDl1zx.png)
 
 ## Overview
 This is a Flask web app which predicts Rating of Restaurant. Codes has to be given for the Cuisine, location, Restaurant type and menu item as per the list attached.
@@ -39,7 +32,7 @@ pip install -r requirements.txt
 
 ## Bug / Feature Request
 
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/naveen-1609/Restaurant_Rating_Prediction/issues) here by including your search query and the expected result
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue] here by including your search query and the expected result
 
 ## Future Scope
 
